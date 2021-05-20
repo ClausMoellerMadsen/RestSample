@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleRest.WebApplication",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleRest.Client", "SampleRest.Client\SampleRest.Client.csproj", "{E68E975D-A8D2-4C65-ACAB-4C96E5D08A30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleRest.Test", "SampleRest.Test\SampleRest.Test.csproj", "{ECAAA861-289A-473F-B876-BCC13B49BEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E68E975D-A8D2-4C65-ACAB-4C96E5D08A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E68E975D-A8D2-4C65-ACAB-4C96E5D08A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E68E975D-A8D2-4C65-ACAB-4C96E5D08A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAAA861-289A-473F-B876-BCC13B49BEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAAA861-289A-473F-B876-BCC13B49BEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAAA861-289A-473F-B876-BCC13B49BEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAAA861-289A-473F-B876-BCC13B49BEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
